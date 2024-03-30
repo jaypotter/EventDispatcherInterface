@@ -7,6 +7,7 @@
         "psr/event-dispatcher": "^1.0@dev"
     },
     "suggest": {
+        "potter/event-dispatcher": "dev-main",
         "potter/event-interfaces": "dev-main",
         "potter/event": "dev-main",
         "potter/contracts": "dev-main",
