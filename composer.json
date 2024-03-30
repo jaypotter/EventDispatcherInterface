@@ -6,6 +6,12 @@
         "php": "^8.3",
         "psr/event-dispatcher": "^1.0@dev"
     },
+    "suggest": {
+        "potter/event-interfaces": "dev-main",
+        "potter/event": "dev-main",
+        "potter/contracts": "dev-main",
+        "potter/framework": "dev-main"
+    },
     "license": "MIT",
     "autoload": {
         "psr-4": {
